@@ -1,0 +1,135 @@
+﻿@model Core.Entity.Skill
+
+    <div class="skill-container">
+        <div class="row">
+            <div class="col-md-5">
+                <label asp-for="Name" class="control-label"></label>
+                <br />
+                <input list="brow" asp-for="Name" class="form-control" placeholder="@Model.Name" onchange="resetIfInvalid(this);" required>
+                <span asp-validation-for="Name" class="text-danger">Name is required</span>
+                <datalist id="brow">
+                    <option value="Data analysis">Data analysis</option>
+                    <option value="Web analytics">Web analytics</option>
+                    <option value="HTML & CSS">HTML & CSS</option>
+                    <option value="C#">C#</option>
+                    <option value=".Net">.Net</option>
+                    <option value="English">English</option>
+                    <option value="SEO/SEM">SEO/SEM</option>
+                    <option value="Wordpress">Wordpress</option>
+                    <option value="Email marketing">Email marketing</option>
+                    <option value="Web scraping">Web scraping</option>
+                    <option value="CRO and A/B Testing">CRO and A/B Testing</option>
+                    <option value="Data visualization">Data visualization</option>
+                    <option value="Search Engine">Search Engine</option>
+                    <option value="Keyword Optimization">Keyword Optimization</option>
+                    <option value="Project/campaign management">Project/campaign management</option>
+                    <option value="Social media and mobile marketing">Social media and mobile marketing</option>
+                    <option value="Paid social media advertisements">Paid social media advertisements</option>
+                    <option value="B2B Marketing">B2B Marketing</option>
+                    <option value="The 4 P-s of Marketing">The 4 P-s of Marketing</option>
+                    <option value="Consumer Behavior Drivers">Consumer Behavior Drivers</option>
+                    <option value="Brand management">Brand management</option>
+                    <option value="Creativity">Creativity</option>
+                    <option value="Copywriting">Copywriting</option>
+                    <option value="Storytelling">Storytelling</option>
+                    <option value="CMS Tools">CMS Tools</option>
+                    <option value="Word">Word</option>
+                    <option value="Excel">Excel</option>
+                    <option value="Outlook">Outlook</option>
+                    <option value="Powerpoint">Powerpoint</option>
+                    <option value="OneNote">OneNote</option>
+                    <option value="Access">Access</option>
+                    <option value="Docs">Docs</option>
+                    <option value="Sheets">Sheets</option>
+                    <option value="Slides">Slides</option>
+                    <option value="Forms">Forms</option>
+                    <option value="Google Sheets">Google Sheets</option>
+                    <option value="OpenOffice Calc">OpenOffice Calc</option>
+                    <option value="Mail merge">mail merge</option>
+                    <option value="Filters">Filters</option>
+                    <option value="Folders">Folders</option>
+                    <option value="Rules">Rules</option>
+                    <option value="Database Management">Database Management</option>
+                    <option value="Oracle">Oracle</option>
+                    <option value="Teradata">Teradata</option>
+                    <option value="IBM DB2">IBM DB2</option>
+                    <option value="MySQL">MySQL</option>
+                    <option value="SQL">SQL</option>
+                    <option value="Javascript">Javascript</option>
+                    <option value="Joomla">Joomla</option>
+                    <option value="Code libraries">Code libraries</option>
+                    <option value="Java">Java</option>
+                    <option value="PHP">PHP</option>
+                    <option value="C++">C++</option>
+                    <option value="IOS/Swift">IOS/Swift</option>
+                    <option value="Ruby">Ruby</option>
+                    <option value="Python">Python</option>
+                    <option value="Adobe InDesign">Adobe InDesign</option>
+                    <option value="Adobe Photoshop">Adobe Photoshop</option>
+                    <option value="Adobe Illustrator">Adobe Illustrator</option>
+                    <option value="Digital (UI, UX, Sketch)">Digital (UI, UX, Sketch)</option>
+                    <option value="Typography (Typesetting etc.)">Typography (Typesetting etc.)</option>
+                    <option value="German">German</option>
+                    <option value="French">French</option>
+                    <option value="Payment Processing">Payment Processing</option>
+                    <option value="WAN/LAN">WAN/LAN</option>
+                    <option value="Windows">Windows</option>
+                    <option value="Linux/Unix">Linux/Unix</option>
+                    <option value="Ubuntu">Ubuntu</option>
+
+                    @*Google Drive (Docs, Sheets, Slides, Forms)
+        Spreadsheets (Excel, Google Sheets, OpenOffice Calc). Pro tip: List specific skills such as: pivot tables, comparative analyses, link to database, macros, sensitivity tables, vertical lookups.
+        Email (mail merge, filters, folders, rules)
+        Presentations/Slideshows (Powerpoint, Google Slides, OpenOffice Impress, Tableu)
+        Database Management (MS Access, Oracle, Teradata, IBM DB2, MySQL, SQL)
+        Quickbooks. Pro tip: talk about specific applications of your skills: Expense tracking, accounts payable, invoicing, cash flow management, employee time tracking, reports, payroll.
+        Social Media (Facebook, Twitter, Instagram). Pro tip: Explain how you apply your social media skills, e.g., talk about giveaways, post engagement metrics, reach, customer interaction.
+        Web (HTML, CSS, Javascript, WordPress, Joomla, Content Management Systems (CMS), code libraries
+        Writing Skills (WordPress, Yoast, SEO, technical writing, journalism, research, ghostwriting. Pro tip: Few are impressed by MS Word mastery, but a great WPM score does great for jobs in which turnaround matters!
+        Graphics (Photoshop, Illustrator, InDesign, Acrobat, Corel Draw, HTML/CSS
+        Enterprise Systems. Automated Billing Systems, Payment Processing, Customer Relationship Management (Salesforce, Oracle Netsuite) Enterprise Resource Planning (Oracle, SAP) Business Intelligence, Business Continuity Planning
+        Software Skills. Java, PHP, MySQL, SQL, C#, JavaScript, C++, Python, iOS/Swift, Ruby on Rails
+        Hardware Skills. System administration, network configuration, software installation, security, Cisco, tech support, updates, project management, research, vendor management, TCI/IP, DNS, DHCP,  WAN/LAN, Windows, Linux/Unix, Ubuntu, virtualized networks, network automation, cloud management, AI/machine learning
+        Advanced Computer Skills. Web development, open source, data structures, coding, security, machine learning, debugging*@
+                </datalist>
+                <script>
+                    function resetIfInvalid(el) {
+                        if (el.value == "")
+                            return;
+                        var options = el.list.options;
+                        for (var i = 0; i < options.length; i++) {
+                            if (el.value == options[i].value)
+                                return;
+                        }
+                        el.value = "";
+                    }
+                </script>
+            </div>
+            <div class="col-md-5">
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" placeholder="@Model.Description" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="form-group">
+                    <label asp-for="Level" class="control-label"></label>
+                    <br />
+                    <select asp-for="Level">
+                        <option value="1">Beginer</option>
+                        <option value="2">Intermediate</option>
+                        <option value="3">Advanced</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <input onclick="removeElement(this);" class="btn btn-danger" type="button" value="Remove" />
+            </div>
+        </div>
+
+        <hr />
+        <br />
+    </div>

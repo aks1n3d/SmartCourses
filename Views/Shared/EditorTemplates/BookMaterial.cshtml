@@ -1,0 +1,63 @@
+﻿@model Core.Entity.BookMaterial
+
+    <div class="book-container">
+        <div class="row">
+            <div class="col-md-6">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" placeholder="@Model.Name" />
+                    <span asp-validation-for="Name" class="text-danger">Name is required</span>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" placeholder="@Model.Description" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <div class="form-group">
+
+                        <input asp-for="Source" type="hidden" placeholder="@Model.Source" />
+
+                        <input asp-for="BookFile" type="file" />
+                        <span asp-validation-for="BookFile" class="text-danger">Pdf file is required</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Author" class="control-label"></label>
+                    <input asp-for="Author" class="form-control" placeholder="@Model.Author" />
+                    <span asp-validation-for="Author" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="form-group">
+                    <input asp-for="Format" type="hidden" placeholder="@Model.Format" />
+                    <label asp-for="PagesAmount" class="control-label">Amount of pages</label>
+                    <input asp-for="PagesAmount" class="form-control" placeholder="@Model.PagesAmount" />
+                    <span asp-validation-for="PagesAmount" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="form-group">
+                    <label asp-for="PublishingDate" class="control-label">Year of publishing</label>
+                    <input asp-for="PublishingDate" class="form-control" placeholder="@Model.PublishingDate" />
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <input onclick="removeElement(this);" class="btn btn-danger" type="button" value="Remove" />
+            </div>
+        </div>
+        <hr />
+        <br />
+    </div>

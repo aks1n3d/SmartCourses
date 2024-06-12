@@ -1,0 +1,37 @@
+﻿@model Core.Entity.ArticleMaterial
+
+    <div class="article-container">
+        <div class="row">
+            <div class="col-md-6">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" placeholder="@Model.Name" />
+                    <span asp-validation-for="Name" class="text-danger">Name is required</span>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" placeholder="@Model.Description" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="form-group">
+                    <label asp-for="Source" class="control-label"></label>
+                    <input asp-for="Source" class="form-control" placeholder="@Model.Source" />
+                    <span asp-validation-for="Source" class="text-danger">Source is required</span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <input onclick="removeElement(this);" class="btn btn-danger" type="button" value="Remove" />
+            </div>
+        </div>
+        <hr />
+        <br />
+    </div>

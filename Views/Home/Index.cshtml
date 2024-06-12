@@ -1,0 +1,296 @@
+﻿@model HomeModel
+
+<div class="slider_area">
+    <div class="single_slider  d-flex align-items-center slider_bg_1">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-7 col-md-6">
+                    <div class="slider_text">
+                        <h3 class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".3s">Find your Dream Course</h3>
+                        <p class="wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".4s">We provide online learning</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ilstration_img wow fadeInRight d-none d-lg-block text-right" data-wow-duration="1s" data-wow-delay=".2s">
+        <img src="img/banner/illustration.png" alt="">
+    </div>
+</div>
+
+<div class="popular_catagory_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section_title mb-40">
+                    <h3>Popolar Categories</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-xl-3 col-md-6">
+                <div class="single_catagory">
+                    <a asp-action="ViewAll" asp-controller="Course"><h4>Design & Creative</h4></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-xl-3 col-md-6">
+                <div class="single_catagory">
+                    <a asp-action="ViewAll" asp-controller="Course"><h4>Marketing</h4></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-xl-3 col-md-6">
+                <div class="single_catagory">
+                    <a asp-action="ViewAll" asp-controller="Course"><h4>Telemarketing</h4></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-xl-3 col-md-6">
+                <div class="single_catagory">
+                    <a asp-action="ViewAll" asp-controller="Course"><h4>Software</h4></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-xl-3 col-md-6">
+                <div class="single_catagory">
+                    <a asp-action="ViewAll" asp-controller="Course"><h4>Administration</h4></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-xl-3 col-md-6">
+                <div class="single_catagory">
+                    <a asp-action="ViewAll" asp-controller="Course"><h4>Teaching & Education</h4></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-xl-3 col-md-6">
+                <div class="single_catagory">
+                    <a asp-action="ViewAll" asp-controller="Course"><h4>Engineering</h4></a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-xl-3 col-md-6">
+                <div class="single_catagory">
+                    <a asp-action="ViewAll" asp-controller="Course"><h4>Web</h4></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="job_listing_area">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="section_title">
+                    <h3>Course Listing</h3>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="brouse_job text-right">
+                    <a asp-action="ViewAll" asp-controller="Course" class="boxed-btn4">Browse More Courses</a>
+                </div>
+            </div>
+        </div>
+        @{
+            if (Model.TopCourses.Count == 3)
+            {
+                <div class="job_lists">
+                    <div class="row">
+                        @{
+                            foreach (var course in Model.TopCourses)
+                            {
+                                <div class="col-lg-12 col-md-12">
+                                    <div class="single_jobs white-bg d-flex justify-content-between">
+                                        <div class="jobs_left d-flex align-items-center">
+                                            <div class="thumb">
+                                                @{ if (course.AvatarName is null)
+                                                    {
+                                                        <img src="~/img/defaultCourse.png" style="width:100%; height:100%" alt="">
+                                                    }
+                                                    else
+                                                    {
+                                                        <img src="~/uploads/@course.AvatarName" style="width:100%; height:100%" alt="">
+                                                    }
+                                                }
+                                            </div>
+                                            <div class="jobs_conetent">
+                                                <a asp-controller="Course" asp-action="View" asp-route-id="@course.Id"><h4>@course.Name</h4></a>
+                                                <div class="links_locat d-flex align-items-center">
+                                                    <div class="location">
+                                                        <p><a asp-controller="Account" asp-action="Profile" asp-route-id="@course.AuthorId">Author</a></p>
+                                                    </div>
+                                                    <div class="location">
+                                                        <p>@course.Category.Name</p>
+                                                    </div>
+                                                    <div class="location">
+                                                        <p>Created: @course.CreatedDate.ToShortDateString()</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="jobs_right">
+                                            <div class="apply_now">
+                                                @{
+                                                    if (User.Identity.IsAuthenticated)
+                                                    {
+                                                        @if (!User.FindFirst("CoursesNames").Value.Split(',').Contains(course.Name))
+                                                        {
+                                                            <a asp-controller="Course" asp-action="AddCourseToProfile" asp-route-id="@course.Id" class="boxed-btn3">Get Now</a>
+                                                        }
+                                                        else
+                                                        {
+                                                            <a asp-controller="Account" asp-action="Profile" class="boxed-btn3">My Courses</a>
+                                                        }
+                                                    }
+                                                    else
+                                                    {
+                                                        <a asp-controller="Account" asp-action="Login" class="boxed-btn3">Get Now</a>
+                                                    }
+                                                }
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        }
+                    </div>
+                </div>
+            }
+        }
+
+    </div>
+</div>
+
+@{
+    if (Model.TopUsers.Count > 3)
+    {
+        <div class="featured_candidates_area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="section_title text-center mb-40">
+                            <h3>Our Clients</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="candidate_active owl-carousel">
+                            @{
+                                foreach (var user in Model.TopUsers)
+                                {
+                                    if (!string.IsNullOrEmpty(user.Profile.FirstName) && !string.IsNullOrEmpty(user.Profile.SecondName))
+                                    {
+                                        <div class="single_candidates text-center">
+                                            <div class="thumb">
+                                                @{
+                                                    if (user.Profile.AvatarName is not null)
+                                                    {
+                                                        <img style="width: 100%; height: 100%; object-fit: contain;" src="~/uploads/@user.Profile.AvatarName" alt="">
+                                                    }
+                                                    else
+                                                    {
+                                                        <img style="width: 100%; height: 100%; object-fit: contain;" src="~/img/user.png" alt="">
+                                                    }
+                                                }
+                                            </div>
+                                            <a asp-controller="Account" asp-action="Profile" asp-route-id="@user.Id"><h4>@user.Profile.FirstName @user.Profile.SecondName</h4></a>
+                                        </div>
+                                    }
+
+                                }
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
+
+<div class="job_searcing_wrap overlay">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5 offset-lg-1 col-md-6">
+                <div class="searching_text">
+                    <h3>Looking for a Course?</h3>
+                    <p>We provide online learning</p>
+                    <a asp-controller="Course" asp-action="ViewAll" class="boxed-btn3">Browse a Course</a>
+                </div>
+            </div>
+            <div class="col-lg-5 offset-lg-1 col-md-6">
+                <div class="searching_text">
+                    <h3>Want to educate people?</h3>
+                    <p>We will help you create your own course</p>
+                    <a asp-controller="Course" asp-action="AddOrEdit" class="boxed-btn3">Post a Course</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="testimonial_area  ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section_title text-center mb-40">
+                    <h3>Motivation</h3>
+                </div>
+            </div>
+            <div class="col-xl-12">
+                <div class="testmonial_active owl-carousel">
+                    <div class="single_carousel">
+                        <div class="row">
+                            <div class="col-lg-11">
+                                <div class="single_testmonial d-flex align-items-center">
+                                    <div class="thumb">
+                                        <img style="width:100%; height:100%;" src="img/motivation1.jpg" alt="Alexandre Dumas">
+                                        <div class="quote_icon">
+                                            <i class="Flaticon flaticon-quote"></i>
+                                        </div>
+                                    </div>
+                                    <div class="info">
+                                        <p>"One`s work may be finished someday, but one`s education never."</p>
+                                        <span>- Alexandre Dumas</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single_carousel">
+                        <div class="row">
+                            <div class="col-lg-11">
+                                <div class="single_testmonial d-flex align-items-center">
+                                    <div class="thumb">
+                                        <img style="width:100%; height:100%;" src="img/motivation2.jpg" alt="Charles de Montesquieu">
+                                        <div class="quote_icon">
+                                            <i class=" Flaticon flaticon-quote"></i>
+                                        </div>
+                                    </div>
+                                    <div class="info">
+                                        <p>"We receive three educations, one from our parents, one from our schoolmasters, and one from the world."</p>
+                                        <span>- Charles de Montesquieu</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="single_carousel">
+                        <div class="row">
+                            <div class="col-lg-11">
+                                <div class="single_testmonial d-flex align-items-center">
+                                    <div class="thumb">
+                                        <img style="width:100%; height:100%;" src="img/motivation3.jpg" alt="Aristotle">
+                                        <div class="quote_icon">
+                                            <i class="Flaticon flaticon-quote"></i>
+                                        </div>
+                                    </div>
+                                    <div class="info">
+                                        <p>"Educating the mind without educating the heart is no education at all."</p>
+                                        <span>- Aristotle</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

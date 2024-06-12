@@ -1,0 +1,205 @@
+﻿@model Core.Entity.Course
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<div class="bradcam_area bradcam_bg_1">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text">
+                    <h3>Course review</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="job_details_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="job_details_header">
+                    <div class="single_jobs white-bg d-flex justify-content-between">
+                        <div class="jobs_left d-flex align-items-center">
+                            <div class="thumb">
+                                @{ if (Model.AvatarName is null)
+                                    {
+                                <img src="~/img/defaultCourse.png" style="width:100%; height:100%" alt="">
+                                    }
+                                    else
+                                    {
+                                <img src="~/uploads/@Model.AvatarName" style="width:100%; height:100%" alt="">
+                                        }
+                                    }
+                            </div>
+                            <div class="jobs_conetent">
+                                <a href="#"><h4>@Model.Name</h4></a>
+                                <div class="links_locat d-flex align-items-center">
+                                    <div class="location">
+                                        <p><a asp-controller="Account" asp-action="Profile" asp-route-id="@Model.AuthorId">Author</a></p>
+                                    </div>
+                                    <div class="location">
+                                        <p>@Model.Category.Name</p>
+                                    </div>
+                                    <div class="location">
+                                        <p>Created: @Model.CreatedDate.ToShortDateString()</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="descript_wrap white-bg">
+                    <div class="single_wrap">
+                        <h4>Description</h4>
+                        <p>@Model.Description</p>
+                    </div>
+
+                    <div class="single_wrap">
+                        <h4>Skills</h4>
+                        @{
+                            foreach (var skill in @Model.Skills)
+                            {
+                                <h6>@{@skill.Name} (@skill.Level.ToString())</h6>
+                                <p>@skill.Description</p>
+                            }
+                        }
+                    </div>
+
+                    <div class="single_wrap">
+                        <h4>Youtube Videos</h4>
+                        @{
+                            foreach (var video in @Model.Videos)
+                            {
+                                <h6>@video.Name</h6>
+                                <p>@video.Description</p>
+                                if (!string.IsNullOrEmpty(@video.Resolution))
+                                {
+                                    <p>Resolution: @video.Resolution</p>
+                                }
+                                <p>Created :@video.CreatedDate.ToShortDateString()</p>
+                                if (Model.IsPersonal)
+                                {
+                                    <iframe class="w-100" height="500" src="https://www.youtube.com/embed/@video.Source" title="YouTube video player" frameborder="0"
+                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                }
+                                <p></p>
+                                if (Model.IsPersonal && !video.IsCompleted)
+                                {
+                                    <a style="margin-top: 15px" asp-action="CompleteMaterial" asp-route-courseId="@Model.Id" asp-route-materialId="@video.Id" asp-route-materialTypeId="1" class="btn btn-success w-30">Mark as Completed</a>
+                                }
+                                <hr />
+                            }
+                        }
+                    </div>
+
+                    <div class="single_wrap">
+                        <h4>Books</h4>
+                        @{
+                            foreach (var book in @Model.Books)
+                            {
+                                <h6>@book.Name</h6>
+                                <p>@book.Description</p>
+                                if (@book.PagesAmount != 0)
+                                {
+                                    <p>Pages Amount : @book.PagesAmount</p>
+                                }
+                                if (!string.IsNullOrEmpty(@book.Author))
+                                {
+                                    <p>Author: @book.Author</p>
+                                }
+                                <p>Format: @book.Format</p>
+                                if (@book.PublishingDate != 0)
+                                {
+                                    <p>Published in :@book.PublishingDate</p>
+                                }
+
+                                if (Model.IsPersonal)
+                                {
+                                    <object class="w-100" height="500" data="~/uploads/@book.Source" type="application/pdf"></object>
+                                }
+
+                                <p></p>
+                                if (Model.IsPersonal && !book.IsCompleted)
+                                {
+                                    <a style="margin-top: 15px" asp-action="CompleteMaterial" asp-route-courseId="@Model.Id" asp-route-materialId="@book.Id" asp-route-materialTypeId="2" class="btn btn-success w-30">Mark as Completed</a>
+                                }
+                                <hr />
+                            }
+                        }
+                    </div>
+                    <div class="single_wrap">
+                        <h4>Articles</h4>
+                        @{
+                            foreach (var article in @Model.Articles)
+                            {
+                                <h6>@article.Name</h6>
+                                <p>@article.Description</p>
+                                <p>Published :@article.CreatedDate.ToShortDateString()</p>
+                                if (Model.IsPersonal)
+                                {
+                                    <a class="btn btn-primary" href="@article.Source" target="_blank">Go to article</a>
+                                }
+
+
+                                <p></p>
+                                if (Model.IsPersonal && !article.IsCompleted)
+                                {
+                                    <a style="margin-top: 15px" asp-action="CompleteMaterial" asp-route-courseId="@Model.Id" asp-route-materialId="@article.Id" asp-route-materialTypeId="3" class="btn btn-success w-30">Mark as Completed</a>
+                                }
+                                <hr />
+                            }
+                        }
+                    </div>
+                    <div class="row" style="margin-top: 15px">
+                        <div class="col-lg-6" style="margin-top:15px">
+                            @{ if (!Model.IsPersonal && @User.FindFirst("Id").Value == @Model.AuthorId.ToString())
+                                {
+                                    <a asp-action="AddOrEdit" asp-route-id="@Model.Id" class="btn btn-warning w-100">Edit</a>
+                                }
+                            }
+                        </div>
+                        <div class="col-lg-6" style="margin-top:15px">
+                            @{
+                                @if (!Model.IsPersonal && !User.FindFirst("CoursesNames").Value.Split(',').Contains(Model.Name))
+                                {
+                                    <a asp-action="AddCourseToProfile" asp-route-id="@Model.Id" class="btn btn-success w-100">Get This Course</a>
+                                }
+                            }
+                        </div>
+                    </div>
+
+                    @{
+                        if (Model.IsPersonal)
+                        {
+                            int progres = @Model.GetProgres();
+                            if (progres != 0)
+                            {
+                                <div class="row" style="margin-top: 30px">
+                                    <div class="col-lg-12">
+                                        <div class="progress progress-lg" style="height: 35px">
+                                            @{
+                                                if (progres == 100)
+                                                {
+                                                    <div class="progress-bar" style="width: 100%; font-size: 1rem; background-color: #28a745">Course is completed</div>
+                                                }
+                                                else
+                                                {
+                                                    <div class="progress-bar" style="width: @progres%; font-size: 1rem;">Completed @progres% of Course</div>
+                                                }
+                                            }
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

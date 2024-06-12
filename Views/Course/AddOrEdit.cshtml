@@ -1,0 +1,253 @@
+﻿@model Core.Entity.Course
+
+
+<div class="bradcam_area bradcam_bg_1">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text">
+                    <h3>Course Editor</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="job_details_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="descript_wrap white-bg">
+                    <form asp-action="AddOrEdit" autocomplete="off" method="post" id="form" enctype="multipart/form-data">
+                        <div class="single_wrap">
+
+                            <h4>Course</h4>
+                            <input type="hidden" asp-for="Id" />
+                            <input asp-for="AuthorId" type="hidden" />
+                            <input type="hidden" asp-for="CreatedDate" placeholder="@Model.CreatedDate" />
+
+                            <div class="form-group">
+                                <label asp-for="Name" class="control-label"></label>
+                                <input asp-for="Name" class="form-control h-100" placeholder="@Model.Name" />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="single_wrap">
+                            <div class="form-group">
+                                <label asp-for="Description" class="control-label"></label>
+                                <br>
+                                <textarea asp-for="Description" class="form-control h-100 w-100" style="height: 200px" placeholder="@Model.Description"></textarea>
+                                <br>
+                                <span asp-validation-for="Description" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="single_wrap">
+                            <label asp-for="CategoryId" class="control-label">Category: </label>
+                            <br />
+                            <select asp-for="CategoryId" class="wide" id="categoryChoose">
+                                <option value="1">Design & Creative</option>
+                                <option value="2">Marketing</option>
+                                <option value="3">Telemarketing</option>
+                                <option value="4">Software </option>
+                                <option value="5">Administration</option>
+                                <option value="6">Teaching & Education</option>
+                                <option value="7">Engineering</option>
+                                <option value="8">Garments / Textile</option>
+                                <option value="9">DevOps</option>
+                                <option value="10">Databases</option>
+                                <option value="11">Linguistics</option>
+                                <option value="12">Information Systems</option>
+                                <option value="13">Management</option>
+                                <option value="14">Google Drive</option>
+                                <option value="15">Spreadsheets</option>
+                                <option value="16">Email</option>
+                                <option value="17">Presentations/Slideshows</option>
+                                <option value="18">Social Media</option>
+                                <option value="19">Writing</option>
+                                <option value="20">Graphics</option>
+                                <option value="21">Hardware</option>
+                                <option value="22">Advanced Computer</option>
+                                <option value="23">Web</option>
+                                <option value="24">Operation Systems</option>
+                            </select>
+                        </div>
+                        <br />
+                        <br />
+                        <div class="single_wrap" style=" border: solid silver 1px; border-radius: 30px; padding: 20px;">
+                            <h4>Youtube Videos</h4>
+
+                            <div id="video-container">
+                                @Html.EditorFor(model => model.Videos)
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <input onclick="addVideo();" class="btn btn-success" type="button" value="Add" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_wrap" style=" border: solid silver 1px; border-radius: 30px; padding: 20px;">
+                            <h4>Books</h4>
+
+                            <div id="book-container">
+                                @Html.EditorFor(model => model.Books)
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <input onclick="addBook();" class="btn btn-success" type="button" value="Add" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_wrap" style=" border: solid silver 1px; border-radius: 30px; padding: 20px;">
+                            <h4>Articles</h4>
+
+                            <div id="article-container">
+                                @Html.EditorFor(model => model.Articles)
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <input onclick="addArticle();" class="btn btn-success" type="button" value="Add" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single_wrap" style=" border: solid silver 1px; border-radius: 30px; padding: 20px;">
+                            <h4>Skills</h4>
+
+                            <div id="skill-container">
+                                @Html.EditorFor(model => model.Skills)
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <input onclick="addSkill();" class="btn btn-success" type="button" value="Add" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="single_wrap">
+                            <div class="input-group">
+                                <div class="custom-file col-md-6">
+                                    <input asp-for="AvatarName" type="hidden" , placeholder="@Model.AvatarName" />
+                                    <input onchange="loadFile(event)" asp-for="File" type="file" class="custom-file-input" id="inputGroupFile03" aria-describedby="inputGroupFileAddon03">
+                                    <label class="custom-file-label" for="inputGroupFile03">Upload course image</label>
+                                </div>
+                                <div class="thumb col-md-6">
+                                    <img id="output" style="width: 100%; height: 100%; object-fit: contain;" alt="">
+                                    <script>
+                                        var loadFile = function (event) {
+                                            var output = document.getElementById('output');
+                                            output.src = URL.createObjectURL(event.target.files[0]);
+                                            output.onload = function () {
+                                                URL.revokeObjectURL(output.src) // free memory
+                                            }
+                                        };
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+
+                        @section Scripts {
+                            @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+                            <script type="text/javascript">
+                                function addVideo() {
+                                    $.ajax({
+                                        async: true,
+                                        data: $('#form').serialize(),
+                                        type: "POST",
+                                        url: '/Course/AddVideo',
+                                        success: function (partialView) {
+                                            console.log("partialView: " + partialView);
+                                            $('#video-container').html(partialView);
+                                        }
+                                    })
+                                }
+
+                                function addBook() {
+                                    $.ajax({
+                                        async: true,
+                                        data: $('#form').serialize(),
+                                        type: "POST",
+                                        url: '/Course/AddBook',
+                                        success: function (partialView) {
+                                            console.log("partialView: " + partialView);
+                                            $('#book-container').html(partialView);
+                                        }
+                                    })
+                                }
+
+                                function addArticle() {
+                                    $.ajax({
+                                        async: true,
+                                        data: $('#form').serialize(),
+                                        type: "POST",
+                                        url: '/Course/AddArticle',
+                                        success: function (partialView) {
+                                            console.log("partialView: " + partialView);
+                                            $('#article-container').html(partialView);
+                                        }
+                                    })
+                                }
+
+                                function addSkill() {
+                                    $.ajax({
+                                        async: true,
+                                        data: $('#form').serialize(),
+                                        type: "POST",
+                                        url: '/Course/AddSkill',
+                                        success: function (partialView) {
+                                            console.log("partialView: " + partialView);
+                                            $('#skill-container').html(partialView);
+                                        }
+                                    })
+                                }
+
+                                function removeElement(button) {
+                                    button.parentNode.parentNode.parentNode.remove();
+                                }
+                            </script>
+                        }
+
+                    <div class="row mt-2">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <input type="submit" value="Submit" class="btn btn-primary w-100" />
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <a asp-action="ViewAll" class="btn btn-secondary  w-100">View All</a>
+                        </div>
+                    </div>
+                    </form>
+                    <div class="row mt-2">
+                        <div class="col-md-12">
+                            <form asp-action="Delete" asp-route-id="@Model.Id">
+                                <button style="margin-top:7px" type="submit" class="btn btn-danger w-100"
+                                        onclick="return confirm('Are you sure to delete this record?')">
+                                    Delete
+                                </button>
+                            </form>
+                        </div>
+                    </div> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        @*<div class="row" style="margin-top: 40px">
+            <div class="col-lg-4">
+                @{
+                    if (User.FindFirst("Id").Value == Model.Data.Id.ToString())
+                    {
+                        <a asp-action="Logout" class="btn btn-danger  w-50">Log Out</a>
+                    }
+                }
+            </div>
+        </div>*@
+
+
+
+

@@ -1,0 +1,448 @@
+D:\учеба\smartcourses\SmartCourses\SmartCourses\bin\Debug\net5.0\appsettings.Development.json
+D:\учеба\smartcourses\SmartCourses\SmartCourses\bin\Debug\net5.0\appsettings.json
+D:\учеба\smartcourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.exe
+D:\учеба\smartcourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.deps.json
+D:\учеба\smartcourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.runtimeconfig.json
+D:\учеба\smartcourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.runtimeconfig.dev.json
+D:\учеба\smartcourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.dll
+D:\учеба\smartcourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.pdb
+D:\учеба\smartcourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.Views.dll
+D:\учеба\smartcourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.Views.pdb
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.AssemblyReference.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.AssemblyInfoInputs.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.AssemblyInfo.cs
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.CoreCompileInputs.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.MvcApplicationPartsAssemblyInfo.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorAssemblyInfo.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorAssemblyInfo.cs
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\scopedcss\bundle\SmartCourses.styles.css
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\SmartCourses.StaticWebAssets.Manifest.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.TagHelpers.input.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.TagHelpers.output.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorCoreGenerate.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorTargetAssemblyInfo.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorTargetAssemblyInfo.cs
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.Views.pdb
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.dll
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\refint\SmartCourses.dll
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.pdb
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.genruntimeconfig.cache
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\ref\SmartCourses.dll
+D:\учеба\smartcourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.CopyComplete
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\appsettings.Development.json
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\appsettings.json
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.exe
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.deps.json
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.runtimeconfig.json
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.runtimeconfig.dev.json
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\ref\SmartCourses.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.pdb
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.Views.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.Views.pdb
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.AssemblyReference.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.GeneratedMSBuildEditorConfig.editorconfig
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.AssemblyInfoInputs.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.AssemblyInfo.cs
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.CoreCompileInputs.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.MvcApplicationPartsAssemblyInfo.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorAssemblyInfo.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorAssemblyInfo.cs
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\SmartCourses.StaticWebAssets.Manifest.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\SmartCourses.StaticWebAssets.xml
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\scopedcss\bundle\SmartCourses.styles.css
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.TagHelpers.input.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.TagHelpers.output.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorCoreGenerate.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorTargetAssemblyInfo.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorTargetAssemblyInfo.cs
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.Views.pdb
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\ref\SmartCourses.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.pdb
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.genruntimeconfig.cache
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.CopyComplete
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Humanizer.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Newtonsoft.Json.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Data.SqlClient.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Runtime.Caching.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\BLL.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Core.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\DAL.dll
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\BLL.pdb
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Core.pdb
+B:\documents\prog\c#\web\SC\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\DAL.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\appsettings.Development.json
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\appsettings.json
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.exe
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.deps.json
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.runtimeconfig.json
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.runtimeconfig.dev.json
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.Views.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.Views.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Humanizer.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Newtonsoft.Json.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Runtime.Caching.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\BLL.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Core.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\DAL.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\BLL.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Core.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\DAL.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.AssemblyReference.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.GeneratedMSBuildEditorConfig.editorconfig
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.AssemblyInfoInputs.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.AssemblyInfo.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.CoreCompileInputs.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.MvcApplicationPartsAssemblyInfo.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorAssemblyInfo.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorAssemblyInfo.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\SmartCourses.StaticWebAssets.Manifest.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\scopedcss\bundle\SmartCourses.styles.css
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.TagHelpers.input.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.TagHelpers.output.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorCoreGenerate.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorTargetAssemblyInfo.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorTargetAssemblyInfo.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.Views.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.CopyComplete
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\ref\SmartCourses.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.genruntimeconfig.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\ViewAll.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\View.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\AddOrEdit.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Videos.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\VideoMaterial.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\BookMaterial.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Books.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Articles.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\ArticleMaterial.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Skills.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\Skill.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.Auth.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.Core.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.YouTube.v3.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Edit.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\ViewAll.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\SmartCourses.StaticWebAssets.Pack.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\msbuild.SmartCourses.Microsoft.AspNetCore.StaticWebAssets.props
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\msbuild.build.SmartCourses.props
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SmartCourses.props
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SmartCourses.props
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\refint\SmartCourses.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\appsettings.Development.json
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\appsettings.json
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.exe
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.deps.json
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.runtimeconfig.json
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.runtimeconfig.dev.json
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.Views.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.Views.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.Auth.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.Core.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.YouTube.v3.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Humanizer.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Newtonsoft.Json.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Runtime.Caching.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\BLL.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Core.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\DAL.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\BLL.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Core.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\DAL.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.AssemblyReference.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.GeneratedMSBuildEditorConfig.editorconfig
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.AssemblyInfoInputs.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.AssemblyInfo.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.CoreCompileInputs.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.MvcApplicationPartsAssemblyInfo.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorAssemblyInfo.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorAssemblyInfo.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\scopedcss\bundle\SmartCourses.styles.css
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\SmartCourses.StaticWebAssets.Manifest.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\SmartCourses.StaticWebAssets.Pack.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\msbuild.SmartCourses.Microsoft.AspNetCore.StaticWebAssets.props
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\msbuild.build.SmartCourses.props
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.SmartCourses.props
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.SmartCourses.props
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.TagHelpers.input.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.TagHelpers.output.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorCoreGenerate.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Edit.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\ViewAll.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\AddOrEdit.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Articles.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Books.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Skills.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Videos.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\View.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\ViewAll.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\ArticleMaterial.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\BookMaterial.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\Skill.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\VideoMaterial.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorTargetAssemblyInfo.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorTargetAssemblyInfo.cs
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.Views.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.CopyComplete
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\refint\SmartCourses.dll
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.pdb
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.genruntimeconfig.cache
+B:\documents\prog\c#\web\SmartCourses\SmartCourses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\ref\SmartCourses.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.exe
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.deps.json
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.runtimeconfig.json
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.runtimeconfig.dev.json
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.Views.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\SmartCourses.Views.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Google.Apis.YouTube.v3.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\BLL.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Core.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\BLL.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\Core.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.AssemblyInfo.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\scopedcss\bundle\SmartCourses.styles.css
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\staticwebassets\SmartCourses.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.TagHelpers.input.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.TagHelpers.output.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorCoreGenerate.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Profile.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Account\ViewAll.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\AddOrEdit.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Articles.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Books.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Skills.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\Videos.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\View.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Course\ViewAll.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\ArticleMaterial.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\BookMaterial.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\Skill.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\EditorTemplates\VideoMaterial.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.Views.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.csproj.CopyComplete
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\refint\SmartCourses.dll
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.pdb
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\SmartCourses.genruntimeconfig.cache
+C:\Users\user\Desktop\Smart Courses\SmartCourses\SmartCourses\SmartCourses\obj\Debug\net5.0\ref\SmartCourses.dll
